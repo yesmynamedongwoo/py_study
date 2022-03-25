@@ -1,2 +1,3 @@
-algorithm venv/
-algorithm .idea/
+algorithm/venv/
+algorithm/.idea/
+.idea
